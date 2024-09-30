@@ -1,0 +1,26 @@
+public class WeekDayActivities {
+
+   int dayOfWeek;
+   String schedule;
+   
+   public static void main (String [] args) {
+   
+   switch (dayOfWeek) {
+   
+      case 1: schedule = "Gym";
+      break;
+      case 2: schedule = "Code";
+      break;
+      case 3: schedule = "Church";
+      break;
+      case 4: schedule = "Write";
+      break;
+      case 5: schedule = "Evangelism";
+      break;
+      default: schedule = "Free";
+      break;
+   }
+   
+   }
+   
+}

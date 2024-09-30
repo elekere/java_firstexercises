@@ -1,0 +1,28 @@
+public class ForCountUp {
+
+/**
+ * This class uses the For Loop in counting 
+ * up by two -- displaying only even numbers
+ * */
+
+public void main (String args []) {
+
+public int countUp {
+
+int counts = 0;
+for (a = 2; 2 <= 10; a +=2;) {
+System.println.out(a);
+
+counts = counts + a;
+
+}
+
+return counts;
+
+}
+
+
+}
+
+
+}

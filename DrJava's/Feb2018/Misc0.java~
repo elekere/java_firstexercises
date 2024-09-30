@@ -1,0 +1,11 @@
+public class Misc0 {
+
+   public static void main (String [] args) {
+   
+      int x = 0;
+      int z = x++;
+      
+      System.out.println("x is: " + x + " and z is: " + z);
+   }
+
+}

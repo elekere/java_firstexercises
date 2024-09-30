@@ -1,0 +1,23 @@
+import java.util.Scanner;
+import java.util.Random;
+
+public class GuessStarter2 {
+public static void main (String[] args); {
+
+int numGuess, numRandom, diff, diffAbsValue
+
+//Request for Input
+Scanner in = new Scanner (System.in);
+numGuess = in.nextInt();
+Sytem.out.print ("");
+
+//Compute and Output Random number
+Random random = new Random();
+numRandom = int.nextInt (70); 
+Sytem.out.print ("");
+
+
+
+
+}
+}

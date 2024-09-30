@@ -1,0 +1,18 @@
+import java.util.*;
+
+public class DotComBust {
+
+   private GameHelper helper = new GameHelper();
+   private ArrayList <DotCom> dotComList = new ArrayList<DotCom>();
+   private int numberOfGuesses = 0;
+   
+   private void setUpGame() {
+      
+      DotCom one = new DotCom();
+      one.setName("okuko.com");
+      DotCom two = new DotCom();
+      two.setName("aturu.com");
+      DotCome three = new DotCom();
+      three.
+
+}

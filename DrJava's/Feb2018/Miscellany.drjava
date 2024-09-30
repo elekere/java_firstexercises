@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20160913-225446">
+  <project autorefresh="false" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="Misc7.java" package="" timestamp="03-Mar-2018 22:22:22">
+        <select from="1369" to="1369"/>
+        <scroll column="263" row="0"/>
+      </file>
+      <file name="Misc1.java" package="" timestamp="10-Feb-2018 22:36:25">
+        <select from="1369" to="1369"/>
+        <scroll column="263" row="0"/>
+      </file>
+      <file name="Misc2.java" package="" timestamp="12-Feb-2018 05:40:52">
+        <select from="1369" to="1369"/>
+        <scroll column="263" row="0"/>
+      </file>
+      <file name="PracticeArraysEdX.java" package="" timestamp="12-Feb-2018 19:13:03">
+        <select from="1369" to="1369"/>
+        <scroll column="263" row="0"/>
+      </file>
+      <file name="Misc4.java" package="" timestamp="15-Feb-2018 06:30:04">
+        <select from="1369" to="1369"/>
+        <scroll column="263" row="0"/>
+      </file>
+      <file name="WeekDayActivities.java" package="" timestamp="15-Feb-2018 06:49:23">
+        <select from="1369" to="1369"/>
+        <scroll column="263" row="0"/>
+      </file>
+      <file name="DotCom.java" package="" timestamp="15-Feb-2018 22:05:29">
+        <select from="1369" to="1369"/>
+        <scroll column="263" row="0"/>
+      </file>
+      <file name="Misc0.java" package="" timestamp="15-Feb-2018 22:06:05">
+        <select from="1369" to="1369"/>
+        <scroll column="263" row="0"/>
+      </file>
+      <file name="Misc5.java" package="" timestamp="20-Feb-2018 18:52:57">
+        <select from="1369" to="1369"/>
+        <scroll column="263" row="0"/>
+      </file>
+      <file name="Misc6.java" package="" timestamp="01-Mar-2018 06:12:09">
+        <select from="1369" to="1369"/>
+        <scroll column="263" row="0"/>
+      </file>
+      <file name="Misc8.java" package="" timestamp="03-Mar-2018 22:45:56">
+        <select from="1369" to="1369"/>
+        <scroll column="263" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>

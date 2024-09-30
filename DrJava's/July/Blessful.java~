@@ -1,0 +1,10 @@
+public class {
+
+   public static main (String [] args) {
+   
+   system.out.println("The gate of hell shall not prevail");
+   
+   }
+
+
+}

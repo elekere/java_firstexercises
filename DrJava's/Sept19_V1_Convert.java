@@ -1,0 +1,43 @@
+import java.util.Scanner;
+
+public class Sept19_V1_Convert {
+  public static void main (String[] args) {
+    
+Scanner in = new Scanner (System.in);
+
+//#1
+
+// declare variables
+String name;
+int age;
+
+System.out.print("What is your age? ");
+age = in.nextInt();
+in.nextLine(); 
+System.out.print("What is your name? ");
+name = in.nextLine();
+System.out.printf("Hello %s, your age is %d\n", name, age);
+
+
+//#2 
+
+// declare variables
+double cm;
+int feet, inches, remainder;
+final double CM_PER_INCH = 2.54;
+final int IN_PER_FOOT = 12;
+
+// prompt the user and get the value
+System.out.print ("How many cm, exactly? ");
+cm = in.nextDouble ();
+
+// convert and output the result
+inches = (int) (cm / CM_PER_INCH);
+feet = inches / IN_PER_FOOT;
+remainder = inches % IN_PER_FOOT;
+
+System.out.printf ("%.2f cm = %d ft, %d in\n", cm, feet, remainder);
+  
+  }
+}
+    

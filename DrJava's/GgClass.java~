@@ -1,0 +1,11 @@
+public class GgClass {
+
+public static void main (String args []) {
+
+Student Nzewi = new Student();
+
+
+
+}
+
+}

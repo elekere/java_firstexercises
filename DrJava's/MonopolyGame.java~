@@ -1,0 +1,44 @@
+public class MonopolyGame {
+   
+   public monopolyRoll (int x, int y) {
+      
+      double randomNum = Math.random();
+      randomNum = randomNum * 6;
+      randomNum = randomNum + 1;
+       
+       int randomNumX = () randomNum;
+       int randomNumX = () randomNum;
+       int sum = randomNumX + randomNumY;
+       
+       if (randomNumX != randomNumY) {
+          
+          sum = randomNumX + randomNumY;
+          
+          return sum;
+       }
+       
+       else {
+          
+          int randomA = ranGen();
+          int randomB = ranGen();
+          
+          sum = randomA + randomB;
+          
+       }
+       
+       public double ranGen() {
+       
+          double randomNumZ = Math.random();
+          randomNumZ = randomNumZ * 6;
+          randomNumZ = randomNumZ + 1;
+          
+          int randomInt = (int) randomNumZ;
+          
+          return randomInt
+       
+       }
+       
+       }
+       
+       }
+   }

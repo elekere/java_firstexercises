@@ -1,0 +1,16 @@
+Welcome to DrJava.  Working directory is C:\Users\GODSGRACE\Desktop\Java Exercises\DrJava's
+> run OnyeAgoziri
+I ga ekwunwu "gbowam" ka odaa ka egbe enu-igwe?
+
+Chukwuebuka Nzewi bu afa mu. Abu mu onye agoziri agozi.
+The current time is 11:50.
+
+The number of minutes since midnight is 710.
+
+One hour down of the current time is 10 hours
+
+The percentage of the hour that has passed: 83
+
+This is the current minute: 50 minutes
+The next minute after the current minute: 51 minutes
+> run OnyeAgoziri

@@ -1,0 +1,18 @@
+import java.util.Scanner;
+public class ExceptionsLearn2 {
+
+
+   public static void main (String [] args) {
+   
+      String [] months = {"jun", "apr", "feb", };
+      
+      Scanner scan = new Scanner(System.in);
+      int month = scan.nextInt();
+   
+   
+   }
+
+
+
+
+}

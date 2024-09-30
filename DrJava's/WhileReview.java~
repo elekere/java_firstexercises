@@ -1,0 +1,13 @@
+class WhileReview {
+   
+   void whileX() {
+   
+   int cool = 0;
+   while (cool <= 10) {
+   
+   System.out.println("While Review");
+   cool++; 
+   
+   }
+   }
+}

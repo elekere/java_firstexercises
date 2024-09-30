@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20160913-225446">
+  <project autorefresh="false" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="Sept19_V1_Convert.java" package="" timestamp="19-Sep-2017 22:46:48">
+        <select from="0" to="0"/>
+        <scroll column="227" row="0"/>
+      </file>
+      <file name="CelsiusToFahrenheit.java" package="" timestamp="20-Sep-2017 11:41:05">
+        <select from="0" to="0"/>
+        <scroll column="227" row="0"/>
+      </file>
+      <file name="GuessStarter2.java" package="" timestamp="20-Sep-2017 13:32:10">
+        <select from="0" to="0"/>
+        <scroll column="227" row="0"/>
+      </file>
+      <file name="secondsToHMS.java" package="" timestamp="19-Sep-2017 23:03:09">
+        <select from="0" to="0"/>
+        <scroll column="227" row="0"/>
+      </file>
+      <file name="GuessStarter.java" package="" timestamp="20-Sep-2017 13:17:13">
+        <select from="0" to="0"/>
+        <scroll column="227" row="0"/>
+      </file>
+      <file name="Date.java" package="" timestamp="23-Sep-2017 03:35:29">
+        <select from="0" to="0"/>
+        <scroll column="227" row="0"/>
+      </file>
+      <file name="DateMethods.java" package="" timestamp="23-Sep-2017 04:38:38">
+        <select from="0" to="0"/>
+        <scroll column="227" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>

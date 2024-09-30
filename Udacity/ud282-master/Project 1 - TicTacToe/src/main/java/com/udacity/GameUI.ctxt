@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=GameUI
+comment0.text=\r\n\ Created\ by\ udacity\ 2016\r\n\ The\ Main\ UI\ class\ containing\ game\ logic\ and\ backend\ 2D\ array\r\n
+comment1.params=game
+comment1.target=GameUI(com.udacity.Game)
+comment1.text=\r\n\ Creates\ a\ gameUI\ given\ a\ Game\ object\r\n\ @param\ game\r\n
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=e
+comment4.target=void\ mouseClicked(java.awt.event.MouseEvent)
+comment5.params=g
+comment5.target=void\ paint(java.awt.Graphics)
+comment6.params=i\ j
+comment6.target=void\ panelMouseClicked(int,\ int)
+comment6.text=\r\n\ Called\ when\ mouse\ is\ clicked\ within\ grid\ in\ a\ valid\ spot\r\n\ @param\ i\ the\ x\ index\ of\ the\ 2D\ grid\ array\r\n\ @param\ j\ the\ y\ index\ of\ the\ 2D\ grid\ array\r\n
+comment7.params=message
+comment7.target=void\ gameOver(java.lang.String)
+comment8.params=twoPlayer
+comment8.target=void\ newGameButtonPressed(boolean)
+comment8.text=\r\n\ Called\ when\ onw\ of\ the\ new\ game\ buttons\ is\ clicked\r\n\ @param\ twoPlayer\ boolean\:\ true\ if\ starting\ a\ 2\ player\ game,\ false\ for\ single\ player\ game\r\n
+numComments=9

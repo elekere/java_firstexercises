@@ -1,0 +1,13 @@
+public class DooBee {
+public static void main (StringO args) I
+intx=l;
+while (x < 2) {
+System.out.print("Doo");
+System.out.print("Bee");
+x = x+ 1;
+}
+If(x==__ }{
+System.out.print("Do"} ;
+
+}
+}

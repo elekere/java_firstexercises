@@ -1,0 +1,28 @@
+public class ArraysReviewJan17 {
+   
+   public static void main (String args []) {
+
+// Object xyz -> new object of the RandomNumberGenerator class;
+      
+      RandomNumberGenerator xyz = new RandomNumberGenerator();
+      int randomNum; 
+      randomNum = xyz.randomNumber(10); // '.ranNum' -> a method: generates random numbers from 1 -10
+
+// An array containing strings of Igbo names (aha Igbo);  
+      
+      String ahaIgbo [] = {"Chinemerem", "Obi", "Oluchi", "Ada", "Nnenna", 
+         "Chukwuebuka", "Uloma", "Ngozi", "Ifenna", "Chukwuemeka"};
+
+// Prints out an Igbo name wrt its index referred to by a corresponding random number   
+      String x;
+      x = ahaIgbo [randomNum];
+      System.out.println (x);    
+      
+      int [] someNums = {2, 10, 50, 30, 171, 041, 6, 9, 13, 8,};
+      
+      int y;
+      y = someNums [randomNum];
+      System.out.println(y);  
+   
+   }
+}

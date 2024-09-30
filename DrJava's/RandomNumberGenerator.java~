@@ -1,0 +1,14 @@
+public class RandomNumberGenerator {
+   
+   
+      public static int ranNum() {
+   
+      double a = Math.random();
+      a = a * 10;
+      a = a + 1;
+      int ai = (int) a;
+      return ai;
+      //System.out.println (ai);
+      
+   }
+}

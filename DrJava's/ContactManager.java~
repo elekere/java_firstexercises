@@ -1,0 +1,12 @@
+public class ContactManager {
+
+   Contact [] myFriends;
+   int friendsCount;
+   
+   ContactManager {
+      
+   this.friendscount = 0;
+   this.myfriends = new Contact [200];
+}
+}
+

@@ -1,0 +1,32 @@
+import java.util.Scanner;
+
+public class ArabicToRomanUsingArrays {
+
+/* A function that gives the corresponding Igbo word for each of the numbers one to ten */
+
+public static void main (String args []) {
+
+
+String [] numList = {"I","II","III","IV","V","VI","VII","VIII","IX","X"};
+
+  int size = numList.length;
+
+  Scanner input = new Scanner (System.in);
+
+   int x = input.nextInt();
+
+   x = x - 1;
+
+if (x < 0) {
+  x = 0;
+
+}
+
+String singleNum = numList [x] ;
+
+  System.out.println (singleNum);
+
+    }
+
+
+ }

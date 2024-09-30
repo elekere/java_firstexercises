@@ -1,0 +1,15 @@
+public class September14th_V2 {
+  public static void main (String[] args) {
+    int[] iruowelle = {1,2,3,4,5,6,7};
+    System.out.println ("The sixth index of iruowelle is " + iruowelle [6]); 
+
+    int index = 0;
+    while (index < 6);
+    {  
+     System.out.println ("The numbers making up the index of iruowelle are " + iruowelle [index]);
+     index++;
+    
+    };
+
+}
+}

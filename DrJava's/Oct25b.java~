@@ -1,0 +1,19 @@
+import java.util.Scanner;
+public class Oct25b {
+public static void main (String[] args) {
+
+int jiHa;
+int jiUnu;
+
+Scanner scan = new Scanner (System.in);
+System.out.println ("ji ole ka unu nwere?");
+jiUnu = scan.nextInt();
+
+System.out.println ("ji ole ka ha nwere?");
+jiHa = scan.nextInt();
+
+if ( jiHa>jiAUnu) Sytem.out.println ("ji m nwere ka nke i nwere");
+if (jiHa<jiUnu) System.out.println ("ji i nwere ka nke m nwere");
+}
+}
+

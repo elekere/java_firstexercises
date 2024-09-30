@@ -1,0 +1,18 @@
+public class PowerLite {
+
+   public static void main (String [] args) {
+      
+      ArrayList<String> names = new ArrayList<String>();
+      
+      names.add("Pamela");
+   
+      names.add("Priscilla");
+      
+      ListIterator<String> itr = new ListIterator();
+      
+      while (itr.hasNext());
+      System.out.println(itr.next());  
+   }
+
+}
+

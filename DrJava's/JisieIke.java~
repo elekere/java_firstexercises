@@ -1,0 +1,23 @@
+import java.util.Scanner;
+
+public class JisieIke {
+
+   String name;
+   
+   public static void main (String args []) {
+   
+   System.out.println("Fill in your name here: ");
+   
+   Scanner scanner = new Scanner(System.in);
+   
+   name = scanner.nextLine;
+   
+   System.out.println("Your name is " + name);
+   
+   
+   
+   }
+
+
+
+}

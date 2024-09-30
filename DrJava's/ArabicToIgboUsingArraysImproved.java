@@ -1,0 +1,46 @@
+/* 
+ * A java program that gives the corresponding
+ * Igbo word for Arabic figures One to Ten
+ * 
+ * @Author: Godsgrace Nzewi
+ * @Version: 12-01-2018
+ */
+
+
+import java.util.Scanner;
+
+public class ArabicToIgboUsingArraysImproved {
+
+   public static void main (String [] args ) { 
+      
+      String [] ahiriOnuogugu = {"Efu","Otu","Abuo","Ato","Ano","Ise",
+         "Isii","Asaa","Asato","Itolu","Iri"};
+      
+      int size = ahiriOnuogugu.length;
+      
+      Scanner input = new Scanner(System.in);
+      
+      // Requests for input of Arabic figures 1 to 10
+      
+      System.out.println("Tinye akara onuogu Arabik n'agbata '1' rue '10': ");
+      
+      int x = input.nextInt();
+      
+      
+      // Error Message if x > 10
+      
+      if (x > 10 || x < 0) {
+         System.err.println("Akara " + (x) + " I tinyere a dabaghi. Tinye ozo.");
+      return;
+      }
+      
+
+      // Outputs Igbo equivalence
+     
+  String mkpuruOnuogugu = ahiriOnuogugu[x];
+      System.out.println();  
+      System.out.print ("Nke a putara " + "'" + mkpuruOnuogugu + "'"); 
+      System.out.println (" n'okwu Igbo." + " Daalu!");
+   }
+
+}

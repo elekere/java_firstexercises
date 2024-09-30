@@ -1,0 +1,8 @@
+public class Misc5 {
+
+   public static void main (String [] args) {
+   
+      Double [] numbers = new Double;
+   }
+
+}

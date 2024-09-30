@@ -1,0 +1,20 @@
+import java.util.Scanner
+
+public class ConvertNum2 {
+
+public static void main (String[] args) {
+
+Explain("otu");
+
+
+}
+ 
+public static void Explain (String abc) {
+System.out.println ("Ihe oputara na okwu igbo bu" + abc);
+                    
+                    }
+
+
+
+
+}

@@ -1,0 +1,34 @@
+/**
+
+public class PrintTime {
+
+    public static void printTime(int hour, int minute) {
+        System.out.print(hour);
+        System.out.print(":");
+        System.out.println(minute);
+    }
+
+    public static void main(String[] args) {
+        int hour = 11;
+        int minute = 59;
+        printTime(hour + 1, 0);
+    }
+
+}
+*/
+public class PrintTimeGgnz {
+
+public static void timeFormat (int hour, int min) { 
+System.out.print ("The Time is ");
+System.out.print (hour);
+System.out.print (":");
+System.out.println (min);
+
+}
+
+public static void main (String [] args) {
+int hour = 3;
+int min = 59;
+timeFormat (hour, min);
+}
+}

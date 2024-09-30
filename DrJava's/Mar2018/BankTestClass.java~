@@ -1,0 +1,12 @@
+public class BankTestClass {
+
+   public static main (String [] args) {
+   
+      Bank abc = new Bank_ABC();
+      Bank ijk = new Bank_IJK();
+      Bank ijk = new Bank_XYZ();
+   
+      
+      System.out.println(abc.getInterestRate())
+   }
+}

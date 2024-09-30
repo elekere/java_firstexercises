@@ -1,0 +1,11 @@
+// *STRINGS*
+
+public class September14th_V3 {
+  public static void main (String [] args) {
+    
+    String nzString = "Kee ife na-eme?";
+    int nzStringLength = nzString.length();
+    System.out.println (nzStringLength);
+  
+  }
+}

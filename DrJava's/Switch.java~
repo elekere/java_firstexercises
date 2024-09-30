@@ -1,0 +1,38 @@
+import java.util.Scanner; 
+public class Switch { 
+
+public static void main (String[] args){
+Scanner in = new Scanner (System.in);
+System.out.println ("Tipunye akara gi ebe a");
+
+int score = in.nextInt();
+
+switch (score) {
+  
+  case 100:
+  case 90:
+System.out.println ("Opuruiche"); // biputa "Opuruiche!"
+break;
+  case 70:
+    System.out.println ("Ezigbo"); // biputa "Ezigbo!"
+    break;
+     case 50:
+    System.out.println ("Igbaliri"); // biputa "Daalu!"
+    break;
+  default:
+    System.out.println ("Ihe I tipunyere adabaghi. Nyochaa akara gi ma tipunye akara kwesiri ekwesi. Ndeewo.");
+
+
+/* import java.util.Scanner;
+
+   public class LearnScanner { 
+    public static void main (String [] args) {
+        Scanner scan = new Scanner (System.in);
+   System.out.println ("Enter any number");
+   int inputNum = scan.nextInt();
+   System.out.println ("The number you entered is "+inputNum); **/
+
+}
+}
+
+}

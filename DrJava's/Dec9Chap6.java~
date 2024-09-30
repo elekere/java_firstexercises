@@ -1,0 +1,11 @@
+public class Dec9Chap6{
+
+public static void main (String args []) {
+
+System.out.println ("Onye ahala nwanne ya!");
+
+
+
+}
+
+}

@@ -1,0 +1,13 @@
+class Misc3 {
+
+   static void main (String [] args) {
+   
+   }
+
+   public void addScores(int[] values) {
+      for (int i = 0; i < values.length; i++)
+      {
+         totalScore = totalScore + values[i];
+      }
+   }
+}

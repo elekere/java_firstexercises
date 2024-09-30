@@ -1,0 +1,17 @@
+public class ArraysJan27 {
+
+   public static void main {
+   
+      int [] numbers = {89, 33, 52, 74, 73, 13, 64, 78, 8};
+      
+      int x = 0;
+      
+      while (x < 9) {
+         System.println.out (numbers [x]);
+      x++;
+      }
+   
+   }
+
+
+}

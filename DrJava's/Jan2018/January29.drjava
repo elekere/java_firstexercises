@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20160913-225446">
+  <project autorefresh="false" main="WordCount" root="" work="">
+    <createjar file=""/>
+    <source>
+      <file name="WordCount.java" package="" timestamp="29-Jan-2018 21:48:16">
+        <select from="472" to="472"/>
+        <scroll column="0" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded>
+      <file name="C:/Book Chest/SORTED/STUDY NOTES/OlodoUntilYouKnow(Short).txt" package="" timestamp="01-Jan-1970 01:00:00">
+        <select from="0" to="0"/>
+        <scroll column="0" row="0"/>
+      </file>
+    </excluded>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>

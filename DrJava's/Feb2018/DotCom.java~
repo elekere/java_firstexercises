@@ -1,0 +1,35 @@
+// New & Improved DotCom Class
+
+import java.util.ArrayList;
+
+public class DotCom {
+
+   private ArrayList<String> locationCells;
+   
+   public void setLocationCells () {
+   
+      locationCells = loc;
+   }
+   
+   public String checkYourself (String userInput) {
+   
+      String = "miss";
+      int index = locationCells.IndexOf(userInput);
+      
+      if (index >= 0) {
+         
+         locationCells.remove(index);
+      
+      if (locationCell.isEmpty() {
+         
+         result = "kill";
+         
+      
+      } else {
+         result = "hit";
+   }
+   
+   }
+ return result;
+ }
+}

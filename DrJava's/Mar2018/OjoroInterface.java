@@ -1,0 +1,4 @@
+public interface OjoroInterface {
+
+   int doSomething();
+}

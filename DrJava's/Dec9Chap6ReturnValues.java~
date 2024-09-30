@@ -1,0 +1,26 @@
+import java.util.Scanner;
+public class Dec9Chap6ReturnValues {
+
+public static void main (String args []) {
+
+Scanner in = new Scanner (System.in);
+
+System.out.println ("Enter radius");
+
+int radius = in.nextInt();
+
+System.out.println ("Enter radius");
+
+int angle = in.nextInt();
+
+
+}
+
+}
+
+
+/*double height = radius * Math.sin(angle);
+
+radius, height, angle
+ 
+ **/

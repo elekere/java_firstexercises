@@ -1,0 +1,65 @@
+import java.util.Scanner;
+
+public class ConvertArabicNumToIgbo { 
+
+public static void ActionMethod() {
+
+System.out.println ("ihe obu n'okwu igbo bu");
+}
+
+
+public static void main (String [] args) {
+
+Scanner scan = new Scanner (System.in);
+
+System.out.println ("Kedu akara Arabik di n'obi gi?"); // requests input of arabic numeral
+
+int num = scan.nextInt();
+//ActionMethod;
+
+switch (num) {
+case 1: System.out.println ("Ihe o putara na okwu igbo bu: 'Otu'");
+break;
+case 2: System.out.println ("Ihe o putara na okwu igbo bu: 'Abuo'");
+break;
+case 3: System.out.println ("Ihe o putara na okwu igbo bu: 'Ato'");
+break;
+case 4: System.out.println ("Ihe o putara na okwu igbo bu: 'Ano'");
+break;
+case 5: System.out.println ("Ihe o putara na okwu igbo bu: 'Ise'");
+break;
+case 6: System.out.println ("Ihe o putara na okwu igbo bu: 'Isii'");
+break;
+case 7: System.out.println ("Ihe o putara na okwu igbo bu: 'Asaa'");
+break;
+case 8: System.out.println ("Ihe o putara na okwu igbo bu: 'Asato'");
+break;
+case 9: System.out.println ("Ihe o putara na okwu igbo bu: 'Itolu'");
+break;
+case 10: System.out.println ("Ihe o putara na okwu igbo bu: 'Iri'");
+break;
+case 11: System.out.println ("Ihe o putara na okwu igbo bu: 'Iri na Otu'");
+break;
+case 12: System.out.println ("Ihe o putara na okwu igbo bu: 'Iri na Abuo'");
+break;
+case 13: System.out.println ("Ihe o putara na okwu igbo bu: 'Iri na Ato'");
+break;
+case 14: System.out.println ("Ihe o putara na okwu igbo bu: 'Iri na Ano'");
+break;
+case 15: System.out.println ("Ihe o putara na okwu igbo bu: 'Iri na Ise'");
+break;
+case 16: System.out.println ("Ihe o putara na okwu igbo bu: 'Iri na Isii'");
+break;
+case 17: System.out.println ("Ihe o putara na okwu igbo bu: 'Iri na Asaa'");
+break;
+case 18: System.out.println ("Ihe o putara na okwu igbo bu: 'Iri na Asato'");
+break;
+case 19: System.out.println ("Ihe o putara na okwu igbo bu: 'Iri na Itolu'");
+break;
+case 20: System.out.println ("Ihe o putara na okwu igbo bu: 'Iri Abuo'");
+break;
+default: System.out.println ("Akara a I denyere esoghi. Denye akara kwesiri ekwesi. Daalu.");
+}
+
+}
+}

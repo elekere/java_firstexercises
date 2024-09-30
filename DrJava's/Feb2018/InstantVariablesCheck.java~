@@ -1,0 +1,17 @@
+public class InstantVariablesCheck {
+
+   boolean isBookBorrowed;
+   String name;
+   
+   public static void main (String [] args) {
+   
+      while (isBookBorrowed) {
+      
+         System.out.println("Okay.");
+         
+      }
+   }
+
+
+
+}

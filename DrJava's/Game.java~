@@ -1,0 +1,13 @@
+public class Game {
+
+   String movieList;
+   
+   public Game (String movies) {
+   
+      this.movieList = movies;
+      movies [] = new String();
+   
+   }
+   
+
+}
